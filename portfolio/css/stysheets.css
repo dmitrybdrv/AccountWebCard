@@ -1,0 +1,76 @@
+
+body {
+    background-color: #272727;
+    font-family: serif;
+    font-size: medium;
+    padding: 5px;
+}
+
+.card {
+    width: 800px;
+    margin: 10px auto 10px;
+    align-content: center;
+    background-color: #747474;
+    border-radius: 8px;
+    padding: 10px 10px;
+    box-shadow: 7px 5px 3px #14A76C;
+}
+
+
+.cardFoto {
+    display: block;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    float: left;
+    position: relative;
+    margin: 5px 15px 5px 5px;
+}
+
+.card-title {
+    text-align: center;
+    color: #FF652F;
+}
+
+.cardText {
+    padding: 5px 5px 5px 5px;
+}
+
+
+
+.cardSkills {
+    width: 800px;
+    margin: 10px auto 10px;
+    background-color: #747474;
+    border-radius: 8px;
+    padding: 10px 10px;
+    box-shadow: 7px 5px 3px #14A76C;
+    
+}
+
+.skills-title {
+    color: #FF652F;
+}
+
+
+.skillsText {
+ padding: 10px 10px;
+}
+
+
+
+
+
+.footer {
+    background-color: #747474;
+    width: 800px;
+    margin: 0 auto;
+    border-radius: 8px;
+    padding: 10px;
+    box-shadow: 7px 5px 3px #14A76C;
+
+}
+
+.footerTitle {
+    color: #FF652F;
+}

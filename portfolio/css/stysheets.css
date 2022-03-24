@@ -6,6 +6,17 @@ body {
     padding: 5px;
 }
 
+header {
+    width: 800px;
+    margin: 10px auto 10px;
+    background-color: #14A76C;
+    border-radius: 8px;
+    padding: 10px 10px;
+    box-shadow: 7px 5px 3px #cbf3e3;
+    text-align: center;
+}
+
+
 .card {
     width: 800px;
     margin: 10px auto 10px;
@@ -13,7 +24,7 @@ body {
     background-color: #747474;
     border-radius: 8px;
     padding: 10px 10px;
-    box-shadow: 7px 5px 3px #14A76C;
+    box-shadow: 7px 5px 3px #cbf3e3;
 }
 
 
@@ -44,8 +55,7 @@ body {
     background-color: #747474;
     border-radius: 8px;
     padding: 10px 10px;
-    box-shadow: 7px 5px 3px #14A76C;
-    
+    box-shadow: 7px 5px 3px #cbf3e3;
 }
 
 .skills-title {
@@ -57,20 +67,29 @@ body {
  padding: 10px 10px;
 }
 
-
-
-
-
-.footer {
-    background-color: #747474;
+.end {
     width: 800px;
-    margin: 0 auto;
+    margin: 10px auto 10px;
+    background-color: #747474;
     border-radius: 8px;
-    padding: 10px;
-    box-shadow: 7px 5px 3px #14A76C;
-
+    padding: 10px 10px;
+    box-shadow: 7px 5px 3px #cbf3e3;
 }
 
-.footerTitle {
+.endTitle {
     color: #FF652F;
+}
+
+
+
+
+
+footer {
+    width: 800px;
+    margin: 10px auto 10px;
+    background-color: #14A76C;
+    border-radius: 8px;
+    padding: 10px 10px;
+    box-shadow: 7px 5px 3px #cbf3e3;
+    text-align: center;
 }

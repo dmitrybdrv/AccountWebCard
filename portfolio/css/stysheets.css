@@ -12,7 +12,6 @@ header {
     background-color: #14A76C;
     border-radius: 8px;
     padding: 10px 10px;
-    box-shadow: 7px 5px 3px #cbf3e3;
     text-align: center;
 }
 
@@ -23,8 +22,8 @@ header {
     align-content: center;
     background-color: #747474;
     border-radius: 8px;
-    padding: 10px 10px;
-    box-shadow: 7px 5px 3px #cbf3e3;
+    padding: 10px;
+    padding-bottom: 20px;
 }
 
 
@@ -38,10 +37,6 @@ header {
     margin: 5px 15px 5px 5px;
 }
 
-.card-title {
-    text-align: center;
-    color: #FF652F;
-}
 
 .cardText {
     padding: 5px 5px 5px 5px;
@@ -51,33 +46,144 @@ header {
 
 .cardSkills {
     width: 800px;
+    height: 300px;
     margin: 10px auto 10px;
-    background-color: #747474;
+    background-color: #424344;
     border-radius: 8px;
     padding: 10px 10px;
-    box-shadow: 7px 5px 3px #cbf3e3;
+    text-align: center;
 }
 
 .skills-title {
-    color: #FF652F;
+    text-align: left;
+}
+
+#skillsText1 {
+    background-color: #272727;
+    color: #48df23;
+    font-family: Impact;
+    font-size: 30px;
+}
+
+#skillsText2 {
+    background-color: #490404;
+    color: #dfa423;
+    font-family: serif;
+    font-size: 20px;
+}
+
+#skillsText3 {
+    background-color: #093b07;
+    color: #6b23df;
+    font-family: Arial;
+    font-size: 20px;
+}
+
+#skillsText4 {
+    background-color: #22036b;
+    color: #df2323;
+    font-family: Courier;
+    font-size: 34px;
+}
+
+#skillsText5 {
+    background-color: #4b2626;
+    color: #21b3ec;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+
+#skillsText6 {
+    background-color: #034627;
+    color: #b4c00f;
+    font-family: Impact;
+    font-size: 28px;
+}
+
+#skillsText7 {
+    background-color: #221717;
+    color: #48df23;
+    font-family: Hand;
+    font-size: 22px;
+}
+
+#skillsText8 {
+    background-color: #0e0435;
+    color: #c74c05;
+    font-family: Impact;
+    font-size: 28px;
+}
+
+#skillsText9 {
+    background-color: #2c0909;
+    color: #df23cf;
+    font-family: Comic;
+    font-size: 26px;
+}
+
+#skillsText10 {
+    background-color: #335033;
+    color: #e8e8f0;
+    font-family: -apple-system;
+    font-size: 20px;
+}
+
+#skillsText11 {
+    background-color: #960707;
+    color: #14A76C;
+    font-family: Verdana;
+    font-size: 32px;
+}
+
+#skillsText12 {
+    background-color: #272727;
+    color: #f7f307;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 26px;
+}
+
+#skillsText13 {
+    background-color: #94dd0d;
+    color: #0e2508;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    
+}
+
+#skillsText14 {
+    background-color: #272727;
+    color: #df2381;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 24px;
+}
+
+#skillsText15 {
+    background-color: #3f013f;
+    color: #23c3df;
+    font-family: monospace;
+    font-size: 30px;
 }
 
 
-.skillsText {
- padding: 10px 10px;
-}
 
-.end {
+.contacts {
     width: 800px;
     margin: 10px auto 10px;
     background-color: #747474;
     border-radius: 8px;
     padding: 10px 10px;
-    box-shadow: 7px 5px 3px #cbf3e3;
 }
 
-.endTitle {
-    color: #FF652F;
+a:link {
+    color: #302b2b;
+}
+
+a:hover {
+    color: #FFE400;
+}
+
+a:visited {
+    color: #21b3ec;
 }
 
 
@@ -90,6 +196,5 @@ footer {
     background-color: #14A76C;
     border-radius: 8px;
     padding: 10px 10px;
-    box-shadow: 7px 5px 3px #cbf3e3;
     text-align: center;
 }
